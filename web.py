@@ -11,7 +11,8 @@ if st.button("Submit"):
 
 
 df = {
-    'Name': ['AHmed', 'Amir', 'Ali'],
+    'Name': ['Marwan', 'Hazem', 'Mo`men'],
     'Age': [35, 30, 22],}
+
 
 st.dataframe(df)
